@@ -1,0 +1,12 @@
+langchain==0.3.7
+langchain-core==0.3.21
+langchain-openai==0.2.9
+langchain-community==0.3.7
+openai>=1.54.0
+python-docx>=1.1.2
+fastapi>=0.115.4
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+jinja2>=3.1.4
+pydantic>=2.9.2
+playwright>=1.47.0
